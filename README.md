@@ -2,7 +2,7 @@
 
 <p align="left">
   Olá, meu nome é Jefferson sou <strong>Desenvolvedor FullStack </strong>.<br>
-  Estou cursando Ciência da Computação 6 Semestre.
+  Estou cursando Ciência da Computação 7 Semestre.
 </p>
 
 <p align="left">
