@@ -6,10 +6,15 @@
 </p>
 
 <p align="left">
-  🚀 Linguage: <strong>C#, Javascript</strong>
-  🚀 Skills FrontEnd Framework: <strong>Angular, ReactJS, React Native</strong>
+  :dart: Linguage: <strong>C#, Javascript</strong>
+</p>
+
+<p align="left">
   🔥 Skills BackEnd: <strong>C# .NET, NodeJS.</strong>
-  
+</p>
+
+<p align="left">
+🚀 Skills FrontEnd Framework: <strong>Angular, ReactJS, React Native</strong>
 </p>
 
 <p align="left">
