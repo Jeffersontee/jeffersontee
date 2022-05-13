@@ -2,23 +2,22 @@
 
 <p align="left">
   Olá, meu nome é Jefferson sou <strong>Desenvolvedor FullStack </strong>.<br>
-  Estou cursando Ciência da Computação 7 Semestre.
+  Formação Ciência da Computação.
 </p>
 
 <p align="left">
-  🚀 Skills: <strong>HTML5, CSS3, Javascript.</strong>
+  🚀 Linguage: <strong>C#, Javascript</strong>
+  🚀 Skills FrontEnd Framework: <strong>Angular, ReactJS, React Native</strong>
+  🔥 Skills BackEnd: <strong>C# .NET, NodeJS.</strong>
+  
 </p>
 
 <p align="left">
-  🌈 Estudando atualmente: <strong>C#, JavaScript e ReactJS.</strong>
+  🌈 Estudando atualmente: <strong>Design Patterns, Book IDDD</strong>
 </p>
 
 <p align="left">
-  🔥 Pretende aprender: <strong>Jquery, Angular, Vue.JS, React Native, JSON, TypeScript, Node.JS e UX Design.</strong>
-</p>
-
-<p align="left">
-📫  Quer falar comigo? Me mande mensagem em alguma dessas redes sociais abaixo!
+  📫  Quer falar comigo? Me mande mensagem em alguma dessas redes sociais abaixo!
 </p>
 
 <p align="left">
